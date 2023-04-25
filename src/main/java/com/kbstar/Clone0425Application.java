@@ -18,4 +18,5 @@ public class Clone0425Application {
         resolver.setSuffix(".jsp");
         return resolver;
     }
+    //null
 }
